@@ -45,7 +45,7 @@ pip install requests
 # Installation in Linux:
 **Open terminal and run:**
 ```shell script
-git clone https://github.com/arxhr007/Aliens_eye
+git clone https://github.com/Yadav210012/Username_Finder
 ```
 ```shell script
 cd Aliens_eye
@@ -57,7 +57,7 @@ bash install.sh
 # Installation in Termux:
 **Open termux and type:**
 ```shell script
-git clone https://github.com/arxhr007/Aliens_eye
+git clone https://github.com/Yadav210012/Username_Finder
 ```
 ```shell script
 cd Aliens_eye
